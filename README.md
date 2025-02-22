@@ -84,6 +84,7 @@ This project is documented using Doxygen. To generate documentation:
 ```sh
 doxygen Doxyfile
 ```
+
 ## How I Designed it
 
 ![Image](https://github.com/user-attachments/assets/c0aca435-5dc1-4130-9e3a-2b2978d990ca)
