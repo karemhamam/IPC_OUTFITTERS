@@ -1,0 +1,5 @@
+Shirt 10 15.99
+Pants 5 25.50
+Jacket 3 49.99
+Shoes 7 39.99
+Hat 12 9.99
