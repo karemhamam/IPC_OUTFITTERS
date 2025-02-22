@@ -88,3 +88,9 @@ doxygen Doxyfile
 ## How I Designed it
 
 ![Image](https://github.com/user-attachments/assets/c0aca435-5dc1-4130-9e3a-2b2978d990ca)
+
+## Author
+
+👨‍💻 Mohamed Hamam
+
+This project is part of my journey into system programming, real-time signaling, and embedded systems. Feel free to contribute or provide feedback! 😊
